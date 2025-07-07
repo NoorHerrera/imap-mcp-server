@@ -1,0 +1,10 @@
+{
+  "name": "imap-mcp-server",
+  "version": "0.1.0",
+  "description": "Full-featured IMAP & SMTP email for AI assistants: search, read, send, organize and clean up multiple mailboxes, with AES-256-encrypted credentials. Works with Claude, Cursor and any MCP client.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
