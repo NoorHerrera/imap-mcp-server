@@ -6,3 +6,4 @@ build/
 *.log
 *.pyc
 node_modules/
+tmp/
