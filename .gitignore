@@ -7,3 +7,4 @@ build/
 *.pyc
 node_modules/
 tmp/
+*.tmp
