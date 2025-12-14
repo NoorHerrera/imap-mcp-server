@@ -9,3 +9,4 @@ node_modules/
 tmp/
 *.tmp
 .cache/
+.pytest_cache/
